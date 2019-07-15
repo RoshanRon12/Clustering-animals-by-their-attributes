@@ -40,5 +40,5 @@ These numbers represent these groups:
 
 In this we have the domain knowledge and know that there are seven classes. Assume we don't know this. We want to find out if the Elbow method guides us to the same conclusion
 
-http://127.0.0.1:15932/chunk_output/50598ED5FDE7E659/31FE2EA4/cxkfzkse9x3b9/000003.png
+https://github.com/RoshanRon12/Clustering-animals-by-their-attributes/issues/1#issue-468277046
 
