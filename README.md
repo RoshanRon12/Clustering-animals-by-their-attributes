@@ -38,5 +38,7 @@ These numbers represent these groups:
 7 -- (10) clam, crab, crayfish, lobster, octopus, scorpion, seawasp, slug, starfish, worm
 
 
-# In this we have the domain knowledge and know that there are seven classes. Assume we don't know this. We want to find out if the Elbow method guides us to the same conclusion
+In this we have the domain knowledge and know that there are seven classes. Assume we don't know this. We want to find out if the Elbow method guides us to the same conclusion
+
+http://127.0.0.1:15932/chunk_output/50598ED5FDE7E659/31FE2EA4/cxkfzkse9x3b9/000003.png
 
