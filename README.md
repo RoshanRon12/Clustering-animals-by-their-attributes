@@ -1,4 +1,4 @@
-# Clustering-animals-by-their-attributes
+# K-means Clustering-animals-by-their-attributes
 
 We will work on a dataset on Zoo animals. We want to cluster the animals by their attributes.
 
