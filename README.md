@@ -40,4 +40,9 @@ These numbers represent these groups:
 
 In this we have the domain knowledge and know that there are seven classes. Assume we don't know this. We want to find out if the Elbow method guides us to the same conclusion
 
+![image](https://user-images.githubusercontent.com/26749714/61240167-d14e0a00-a6fd-11e9-8d02-dcb2eb42dd00.png)
+
+Actual classes and predicted clusters
+
+![image](https://user-images.githubusercontent.com/26749714/61240517-a1533680-a6fe-11e9-9e6a-31db09d307e6.png)
 
