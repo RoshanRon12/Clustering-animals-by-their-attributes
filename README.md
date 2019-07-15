@@ -36,3 +36,7 @@ These numbers represent these groups:
 5 -- (4) frog, frog, newt, toad 
 6 -- (8) flea, gnat, honeybee, housefly, ladybird, moth, termite, wasp 
 7 -- (10) clam, crab, crayfish, lobster, octopus, scorpion, seawasp, slug, starfish, worm
+
+
+# In this we have the domain knowledge and know that there are seven classes. Assume we don't know this. We want to find out if the Elbow method guides us to the same conclusion
+
