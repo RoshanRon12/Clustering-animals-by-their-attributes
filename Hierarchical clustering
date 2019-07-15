@@ -34,3 +34,22 @@ These numbers represent these groups:
 5 -- (4) frog, frog, newt, toad 
 6 -- (8) flea, gnat, honeybee, housefly, ladybird, moth, termite, wasp 
 7 -- (10) clam, crab, crayfish, lobster, octopus, scorpion, seawasp, slug, starfish, worm
+
+Based on dendrogram we can make a decision on number of clusters.
+
+![image](https://user-images.githubusercontent.com/26749714/61246911-36f5c280-a70d-11e9-97fb-e5884d46e1df.png)
+
+We can also use elbow method, that we used for kmeans before.
+
+![image](https://user-images.githubusercontent.com/26749714/61247040-86d48980-a70d-11e9-9ce0-f2827ab637c0.png)
+
+Two dendrograms can be plotted and their labels are connected. This directly shows similarities and differences between models.
+
+![image](https://user-images.githubusercontent.com/26749714/61247094-9eac0d80-a70d-11e9-8608-606aca953fee.png)
+
+Cluster and Overlap
+
+![image](https://user-images.githubusercontent.com/26749714/61247147-bbe0dc00-a70d-11e9-933b-9583666d7074.png)
+
+
+
